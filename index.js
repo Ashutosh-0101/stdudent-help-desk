@@ -1,4 +1,4 @@
-document.getElementById("anounsment").addEventListener('click', 
+document.getElementById("announcement").addEventListener('click', 
 function() {
 	alert("comming soon........")
 });
